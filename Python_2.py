@@ -1,1 +1,3 @@
-Print("Byte Academy is the coding school x")
+a=1
+b=2
+print(a+b)
